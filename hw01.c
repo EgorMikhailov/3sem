@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+ * FIXIT: нужно создать отдельную константу для числа 1000
+ */
+
 int main()
 {
     int **a;
