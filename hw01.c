@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #define N 1000
 
-/*
- * FIXIT: нужно создать отдельную константу для числа 1000
- */
-
 int main()
 {
     int **a;
